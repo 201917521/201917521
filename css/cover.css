@@ -1,11 +1,11 @@
 .outer_box{
-    background-color: #789;
+    background-color:#607d8b;
     padding-top: 20px;
     height: 1080px;
 }
 
 .outer_box .content_main{
-    width: 80%;
+    width: 60%;
     height: 950px;
     background: url(../image/background.jpg);
     margin: 0px auto;
